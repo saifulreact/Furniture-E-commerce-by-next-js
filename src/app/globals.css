@@ -10,5 +10,20 @@
 
 @theme{
   --font-primary:"Poppins", sans-serif;
+  --color-secondary:"#3A3A3A";
+
+}
+
+.tittle{
+  color: #333333;
+  font-weight: bold;
+  font-size: 32px;
+  font-family: primary;
+}
+.details{
+  font-size: 20px;
+  font-weight: 400;
+  font-family: primary;
+  color: #666666;
 
 }
